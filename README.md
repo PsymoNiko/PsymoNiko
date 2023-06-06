@@ -24,9 +24,10 @@
 ![](https://github-contributor-stats.vercel.app/api?username=PsymoNiko&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ### 😂 Random Dev Meme
-<img src="https://rm.up.railway.app/" width="512px"/>
+![Random Dev Meme](https://rm.up.railway.app/)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=PsymoNiko&icon=2&color=8)](https://visitcount.itsvg.in)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
