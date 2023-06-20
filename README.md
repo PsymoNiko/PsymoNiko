@@ -5,6 +5,7 @@
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/NicholasPsymon#0307) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ali-mohammadnia) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/19601943/ali-mohammadnia) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@Ali%20mohammadnia)
+[![Email](https://img.shields.io/badge/Email-alimohammadnia127%40gmail.com-red)](mailto:alimohammadnia127@gmail.com)
 
 
 # 💻 Tech Stack:
