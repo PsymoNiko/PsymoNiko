@@ -11,7 +11,7 @@
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/NicholasPsymon#0307) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ali-mohammadnia) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/19601943/ali-mohammadnia) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@NikoPyRest)
 [![Email](https://img.shields.io/badge/Email-alimohammadnia127%40gmail.com-red)](mailto:alimohammadnia127@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-%20-%23E4405F.svg?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/ali.mohammad.nia/)
-
+[![slack](https://img.shields.io/badge/slack-brigade-brightgreen.svg?logo=slack)](https://kubernetes.slack.com/messages/C87MF1RFD)
 # 🔬 CI:
 ![GitLab CI](https://img.shields.io/badge/gitlab%20ci-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
@@ -51,12 +51,6 @@
 ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)
 
 
-# 🏘 Teamwork Management:
-
-
-[![slack](https://img.shields.io/badge/slack-brigade-brightgreen.svg?logo=slack)](https://kubernetes.slack.com/messages/C87MF1RFD)
-
-https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=PsymoNiko&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
