@@ -77,7 +77,7 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
-![Snake Game](https://github.com/PsymoNiko/PsymoNiko/workflows/Snake%20Game/badge.svg)
+![Snake animation](https://github.com/{{PsymoNiko}}/{{PsymoNiko}}/blob/output/github-contribution-grid-snake.svg)
 
 
 ![1121317](https://user-images.githubusercontent.com/48970605/233646984-4c26ac3f-b567-4d38-8541-dfdbe371da9b.png)
