@@ -2,7 +2,7 @@
 <p align="center"><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 80px></p> 
  <p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/> 
  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"> 
- <p align="center"> <img src="https://komarev.com/ghpvc/?username=bpradiip&label=Profile%20Views&color=0e75b6&style=flat" alt="bpradiip" />
+ <p align="center"> 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+👋+My+name+is+Ali;I+am+A+Backend+Web+Developer+💻)](https://git.io/typing-svg)
 
