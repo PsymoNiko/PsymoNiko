@@ -12,7 +12,7 @@
 
 
 
-# History:
+# 📈 History:
 
 ![snake gif](https://github.com/psymoniko/PsymoNiko/blob/output/github-contribution-grid-snake.svg)
 
@@ -52,7 +52,7 @@
 ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 
 
-# AWS:
+# 📁 AWS:
 
 [![MinIO](https://raw.githubusercontent.com/minio/minio/master/.github/logo.svg?sanitize=true)](https://min.io)
 
