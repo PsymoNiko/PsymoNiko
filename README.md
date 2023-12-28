@@ -49,7 +49,6 @@
 # Workflow Platforms:
 
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white) 
-
 ![Sentry](https://img.shields.io/badge/Sentry-black?style=for-the-badge&logo=Sentry&logoColor=#362D59) 
 
 # 🕓 Version Control:
