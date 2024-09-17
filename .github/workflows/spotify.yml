@@ -1,4 +1,4 @@
-name: Update Spotify Recently Played
+.name: Update Spotify Recently Played
 
 on:
   schedule:
@@ -11,7 +11,7 @@ jobs:
     steps:
       - uses: actions/checkout@v2
       - name: Update README
-        uses: JasonEtco/update-readme@v1
+        uses: PsymoNiko/update-readme@v1
         with:
           readme-path: 'README.md'
           add-spaces: true
