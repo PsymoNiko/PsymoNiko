@@ -99,3 +99,7 @@
 
 
 [![](https://visitcount.itsvg.in/api?id=PsymoNiko&icon=2&color=8)](https://visitcount.itsvg.in)
+
+
+
+<a href="https://app.daily.dev/pymoniko"><img src="https://api.daily.dev/devcards/v2/XMKgabfdG3MViOwIBRQPA.png?type=default&r=r6o" width="356" alt="Ali Mohammadnia's Dev Card"/></a>
