@@ -11,7 +11,7 @@ jobs:
     steps:
       - uses: actions/checkout@v2
       - name: Update README
-        uses: PsymoNiko/update-readme@v1
+        uses: PsymoNiko/PsymoNiko@v1
         with:
           readme-path: 'README.md'
           add-spaces: true
