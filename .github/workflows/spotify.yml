@@ -1,21 +1,21 @@
-.name: Update Spotify Recently Played
+# name: Update Spotify Recently Played
 
-on:
-  schedule:
-    - cron: '*/30 * * * *' # Runs every 30 minutes
-  workflow_dispatch:
+# on:
+#   schedule:
+#     - cron: '*/30 * * * *' # Runs every 30 minutes
+#   workflow_dispatch:
 
-jobs:
-  update-readme:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v2
-      - name: Update README
-        uses: PsymoNiko/PsymoNiko@v1
-        with:
-          readme-path: 'README.md'
-          add-spaces: true
-        env:
-          SPOTIFY_CLIENT_ID: ${{ secrets.SPOTIFY_CLIENT_ID }}
-          SPOTIFY_CLIENT_SECRET: ${{ secrets.SPOTIFY_CLIENT_SECRET }}
-          SPOTIFY_REFRESH_TOKEN: ${{ secrets.SPOTIFY_REFRESH_TOKEN }}
+# jobs:
+#   update-readme:
+#     runs-on: ubuntu-latest
+#     steps:
+#       - uses: actions/checkout@v2
+#       - name: Update README
+#         uses: PsymoNiko/PsymoNiko@v1
+#         with:
+#           readme-path: 'README.md'
+#           add-spaces: true
+#         env:
+#           SPOTIFY_CLIENT_ID: ${{ secrets.SPOTIFY_CLIENT_ID }}
+#           SPOTIFY_CLIENT_SECRET: ${{ secrets.SPOTIFY_CLIENT_SECRET }}
+#           SPOTIFY_REFRESH_TOKEN: ${{ secrets.SPOTIFY_REFRESH_TOKEN }}
