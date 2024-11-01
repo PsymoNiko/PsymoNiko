@@ -105,4 +105,12 @@
 
 <a href="https://app.daily.dev/pymoniko"><img src="https://api.daily.dev/devcards/v2/XMKgabfdG3MViOwIBRQPA.png?type=default&r=r6o" width="356" alt="Ali Mohammadnia's Dev Card"/></a>
 
-<a href="https://www.bitcoinqrcodemaker.com" target="_blank"><img src="https://www.bitcoinqrcodemaker.com/api/?style=bitcoin&amp;address=1LD7Uog7HrPodfBzeKPea83LQu25tbtwTj" height="300" width="300" border="0" alt="Bitcoin QR code" title="bitcoin:1LD7Uog7HrPodfBzeKPea83LQu25tbtwTj"></a>
+# Bitcoin QR Code
+
+Click the image below to view the Bitcoin QR code:
+
+[![Bitcoin QR code](https://www.bitcoinqrcodemaker.com/api/?style=bitcoin&address=1LD7Uog7HrPodfBzeKPea83LQu25tbtwTj)](https://www.bitcoinqrcodemaker.com/api/?style=bitcoin&address=1LD7Uog7HrPodfBzeKPea83LQu25tbtwTj)
+
+**Bitcoin Address:** `1LD7Uog7HrPodfBzeKPea83LQu25tbtwTj`
+
+To copy the Bitcoin address, you can manually select it and copy it to your clipboard.
