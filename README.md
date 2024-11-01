@@ -104,3 +104,5 @@
 
 
 <a href="https://app.daily.dev/pymoniko"><img src="https://api.daily.dev/devcards/v2/XMKgabfdG3MViOwIBRQPA.png?type=default&r=r6o" width="356" alt="Ali Mohammadnia's Dev Card"/></a>
+
+<a href="https://www.bitcoinqrcodemaker.com" target="_blank"><img src="https://www.bitcoinqrcodemaker.com/api/?style=bitcoin&amp;address=1LD7Uog7HrPodfBzeKPea83LQu25tbtwTj" height="300" width="300" border="0" alt="Bitcoin QR code" title="bitcoin:1LD7Uog7HrPodfBzeKPea83LQu25tbtwTj"></a>
