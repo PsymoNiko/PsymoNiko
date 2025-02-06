@@ -104,6 +104,8 @@ Click the image below to view the Bitcoin QR code:
 
 ---
 
-<a href="https://app.daily.dev/pymoniko">
-  <img src="https://api.daily.dev/devcards/v2/XMKgabfdG3MViOwIBRQPA.png?type=default&r=r6o" width="470" height="390" alt="Ali Mohammadnia's Dev Card"/>
-</a>
+
+
+<a href="https://app.daily.dev/psymoniko"><img src="https://api.daily.dev/devcards/v2/XMKgabfdG3MViOwIBRQPA.png?type=default&r=97t" width="356" alt="Ali Mohammadnia's Dev Card"/></a>
+
+
