@@ -59,7 +59,7 @@
 <div align="center">
   <a href="#"><img src="assets/pokeball-top.png" width="370px" height="170px"></a>
   
-<details open>
+<details clonsed>
 
 # 💻 Tech Stack  
 ### Languages & Frameworks:  
