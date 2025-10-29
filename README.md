@@ -44,6 +44,23 @@
 
 ---
 
+
+
+
+<!-- ✨ Divider -->
+<h3 align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
+</h3>
+
+<!-- =============================== -->
+<!-- 🖥️ Interactive Terminal View -->
+<!-- =============================== -->
+<br>
+<div align="center">
+  <a href="#"><img src="assets/pokeball-top.png" width="370px" height="170px"></a>
+  
+<details open>
+
 # 💻 Tech Stack  
 ### Languages & Frameworks:  
 <p align="center">
@@ -96,6 +113,20 @@
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
 </p>
 
+</details>
+
+</details>
+  <a href="#"><img src="assets/pokeball-bottom.png" width="370px" height="170px"></a>
+</div>
+
+<!-- ✨ Divider -->
+<h3 align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
+</h3>
+
+
+
+
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=dark&count=1"/>
@@ -103,3 +134,5 @@
 </p>
 
 ---
+
+
