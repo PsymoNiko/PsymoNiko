@@ -3,9 +3,7 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider"/>
 </p>
 
-<h3 align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
-</h3>
+
 
 
 <p align="center">
@@ -34,6 +32,10 @@
 
 <h3 align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
+</h3>
+
+<h3 align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Hi+👋+My+name+is+Ali;I+am+A+Site+Reliability+Engineer+💻">
 </h3>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+👋+My+name+is+Ali;I+am+A+Site+Reliability+Engineer+💻)](https://git.io/typing-svg)
