@@ -4,6 +4,7 @@
 </p>
 
 
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+👋+My+name+is+Ali;I+am+A+Site+Reliability+Engineer+💻)](https://git.io/typing-svg)
 
 
 <p align="center">
@@ -34,7 +35,6 @@
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 </h3>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+👋+My+name+is+Ali;I+am+A+Site+Reliability+Engineer+💻)](https://git.io/typing-svg)
 
 <h3 align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
