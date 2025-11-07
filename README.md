@@ -137,6 +137,7 @@
 
 
 <p align="center">
+  <a href="https://roadmap.sh"><img src="https://roadmap.sh/card/tall/6492d1b9d99c9d67318a45e0?variant=dark" alt="roadmap.sh"/></a>
   <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=dark&count=1"/>
   <a href="https://app.daily.dev/psymoniko"><img src="https://api.daily.dev/devcards/v2/XMKgabfdG3MViOwIBRQPA.png?type=default&r=q1z" width="356" alt="Ali Mohammadnia's Dev Card"/></a>
 </p>
