@@ -40,10 +40,6 @@
 </h3>
 
 
-<h3 align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
-</h3>
-
 
 # 📈 History 
 [![](https://visitcount.itsvg.in/api?id=PsymoNiko&icon=2&color=8)](https://visitcount.itsvg.in)
