@@ -45,16 +45,6 @@
 </h3>
 
 
-
-# 📈 History 
-[![](https://visitcount.itsvg.in/api?id=PsymoNiko&icon=2&color=8)](https://visitcount.itsvg.in)
-
-
-
-<h3 align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
-</h3>
-
 # 💫 About Me  
 👋 Hi! I'm a passionate Site Reliability Engineer (SRE) working on challenging projects to deliver reliable and scalable solutions.  
 💬 Let's connect and share ideas!  
