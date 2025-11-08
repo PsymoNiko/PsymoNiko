@@ -45,8 +45,8 @@
 </h3>
 
 
-# 💫 About Ali Mohammadnia
-👋 Hi!
+# 💫 About Ali
+👋 Hi! I'm Mohammadnia
 
 I’m a thinker before I’m a doer. My mind digs deep into ideas — always searching for meaning, structure, and truth. Curiosity and resilience built me, even in places that aren’t easy to grow. I work with Python, DevOps, and backend logic, but behind all that, there’s a creative fire that doesn’t always fit inside logic.
 
