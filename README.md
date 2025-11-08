@@ -3,12 +3,14 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider"/>
 </p>
 
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+👋+My+name+is+Ali;I+am+A+Site+Reliability+Engineer+💻)](https://git.io/typing-svg)
+
 
 <p align="center">
   <img src="assets/output2.gif" alt="Animated GIF" />
 </p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+👋+My+name+is+Ali;I+am+A+Site+Reliability+Engineer+💻)](https://git.io/typing-svg)
+
 
 
 <p align="center">
