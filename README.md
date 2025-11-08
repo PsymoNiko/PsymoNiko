@@ -45,12 +45,8 @@
 </h3>
 
 
-# 💫 About Me  
-👋 Hi! I'm a passionate Site Reliability Engineer (SRE) working on challenging projects to deliver reliable and scalable solutions.  
-💬 Let's connect and share ideas!  
-
-
-
+# 💫 About Ali Mohammadnia
+👋 Hi!
 
 I’m a thinker before I’m a doer. My mind digs deep into ideas — always searching for meaning, structure, and truth. Curiosity and resilience built me, even in places that aren’t easy to grow. I work with Python, DevOps, and backend logic, but behind all that, there’s a creative fire that doesn’t always fit inside logic.
 
@@ -135,7 +131,7 @@ I’m loyal to my principles and persistent even when I feel disconnected. Somet
 </h3>
 
 
-## PsymoNiko
+😎 ## PsymoNiko
 PsymoNiko is my alter ego — the space where my creative madness breathes. It’s not a nickname; it’s my rebellion against the walls around me. Through him, I turn pain into art, frustration into motion, and silence into rhythm.
 When I’m PsymoNiko, I don’t just code — I create worlds. I move like someone who doesn’t need permission to exist. Sometimes that energy burns too wild — impulsive, emotional, breaking things just to feel alive again — but that’s the fire that makes me real.
 
