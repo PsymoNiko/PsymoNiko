@@ -4,6 +4,10 @@
 </p>
 
 
+<p align="center">
+  <img src="assets/output2.gif" alt="Animated GIF" />
+</p>
+
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+👋+My+name+is+Ali;I+am+A+Site+Reliability+Engineer+💻)](https://git.io/typing-svg)
 
 
