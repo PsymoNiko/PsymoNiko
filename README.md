@@ -148,3 +148,86 @@ When I’m PsymoNiko, I don’t just code — I create worlds. I move like someo
 </h3>
 
 
+
+
+
+
+<!-- ✨ Divider -->
+<h3 align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
+</h3>
+
+<!-- =============================== -->
+<!-- 🖥️ Interactive Pokéball Terminal -->
+<!-- =============================== -->
+<div align="center">
+
+<!-- Pokéball Top -->
+<details>
+  <summary>
+    <a href="#">
+      <img src="assets/pokeball-top.png" width="370px" height="170px">
+    </a>
+  </summary>
+
+  <h3 align="center">💻 Top Tech Stack</h3>
+  <p align="center">
+    <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
+    <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
+    <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi"/>
+    <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
+    <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  </p>
+</details>
+
+<!-- Middle Section -->
+<details>
+  <summary>
+    <img src="https://img.shields.io/badge/▶️%20Click%20to%20Open%20Full%20Stack-000000?style=for-the-badge">
+  </summary>
+
+  <h3 align="center">🚀 Full Tech Stack</h3>
+  <p align="center">
+    <!-- all badges here -->
+    <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
+    <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
+    <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi"/>
+    <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
+    <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub%20Actions-2671E5?style=for-the-badge&logo=githubactions&logoColor=white"/>
+  </p>
+</details>
+
+<!-- Pokéball Bottom -->
+<details>
+  <summary>
+    <a href="#">
+      <img src="assets/pokeball-bottom.png" width="370px" height="170px">
+    </a>
+  </summary>
+
+  <h3 align="center">🛠️ Lower Tech Stack</h3>
+  <p align="center">
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub%20Actions-2671E5?style=for-the-badge&logo=githubactions&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+  </p>
+</details>
+
+</div>
+
+<!-- ✨ Divider -->
+<h3 align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
+</h3>
+
+## PsymoNiko
+
+PsymoNiko is my alter ego — the space where my creative madness breathes. It’s not a nickname; it’s my rebellion against the walls around me.  
+Through him, I turn pain into art, frustration into motion, and silence into rhythm.  
+When I’m PsymoNiko, I don’t just code — I create worlds.  
+Sometimes that energy burns too wild — impulsive, emotional, breaking things just to feel alive again — but that’s the fire that makes me real.
