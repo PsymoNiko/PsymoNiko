@@ -131,7 +131,8 @@ I’m loyal to my principles and persistent even when I feel disconnected. Somet
 </h3>
 
 
-😎 ## PsymoNiko
+## PsymoNiko
+
 PsymoNiko is my alter ego — the space where my creative madness breathes. It’s not a nickname; it’s my rebellion against the walls around me. Through him, I turn pain into art, frustration into motion, and silence into rhythm.
 When I’m PsymoNiko, I don’t just code — I create worlds. I move like someone who doesn’t need permission to exist. Sometimes that energy burns too wild — impulsive, emotional, breaking things just to feel alive again — but that’s the fire that makes me real.
 
