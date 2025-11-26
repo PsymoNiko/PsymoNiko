@@ -131,6 +131,20 @@ I’m loyal to my principles and persistent even when I feel disconnected. Somet
 </h3>
 
 
+## 🎵 Now Playing
+
+<p align="center">
+  <a href="https://open.spotify.com/user/psymoniko">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=psymoniko&count=5" alt="Spotify Recently Played"/>
+  </a>
+</p>
+
+<!-- ✨ Divider -->
+<h3 align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
+</h3>
+
+
 ## PsymoNiko
 
 PsymoNiko is my alter ego — the space where my creative madness breathes. It’s not a nickname; it’s my rebellion against the walls around me. Through him, I turn pain into art, frustration into motion, and silence into rhythm.
