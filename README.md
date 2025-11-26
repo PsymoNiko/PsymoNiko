@@ -131,6 +131,24 @@ I’m loyal to my principles and persistent even when I feel disconnected. Somet
 </h3>
 
 
+## 🎵 Now Playing
+
+<p align="center">
+  <a href="https://github.com/PsymoNiko/PsymoNiko/raw/main/05.%20Youth.mp3">
+    <img src="https://img.shields.io/badge/▶%20Play-Youth-1DB954?style=for-the-badge&logo=music&logoColor=white" alt="Play Youth"/>
+  </a>
+</p>
+
+<p align="center">
+  <em>🎧 Click to play "Youth" 🎧</em>
+</p>
+
+<!-- ✨ Divider -->
+<h3 align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
+</h3>
+
+
 ## PsymoNiko
 
 PsymoNiko is my alter ego — the space where my creative madness breathes. It’s not a nickname; it’s my rebellion against the walls around me. Through him, I turn pain into art, frustration into motion, and silence into rhythm.
