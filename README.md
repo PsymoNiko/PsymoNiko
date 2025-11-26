@@ -65,7 +65,7 @@ I’m loyal to my principles and persistent even when I feel disconnected. Somet
 <div align="center">
   <a href="#"><img src="assets/pokeball-top.png" width="370px" height="170px"></a>
   
-  <h2>✨ Simoniko ✨</h2>
+  <h2>✨ PsymoNiko ✨</h2>
   
 <details>
 <summary>🎵 Click to explore my Tech Stack & listen to some music! 🎵</summary>
