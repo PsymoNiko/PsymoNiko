@@ -134,9 +134,13 @@ I’m loyal to my principles and persistent even when I feel disconnected. Somet
 ## 🎵 Now Playing
 
 <p align="center">
-  <a href="https://open.spotify.com/user/psymoniko">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=psymoniko&count=5" alt="Spotify Recently Played"/>
+  <a href="https://github.com/PsymoNiko/PsymoNiko/raw/main/05.%20Youth.mp3">
+    <img src="https://img.shields.io/badge/▶%20Play-Youth-1DB954?style=for-the-badge&logo=music&logoColor=white" alt="Play Youth"/>
   </a>
+</p>
+
+<p align="center">
+  <em>🎧 Click to play "Youth" 🎧</em>
 </p>
 
 <!-- ✨ Divider -->
