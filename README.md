@@ -65,7 +65,18 @@ I’m loyal to my principles and persistent even when I feel disconnected. Somet
 <div align="center">
   <a href="#"><img src="assets/pokeball-top.png" width="370px" height="170px"></a>
   
-<details clonsed>
+  <h2>✨ Simoniko ✨</h2>
+  
+<details>
+<summary>🎵 Click to explore my Tech Stack & listen to some music! 🎵</summary>
+
+<br>
+
+<p align="center">
+  🎧 <a href="https://github.com/PsymoNiko/PsymoNiko/raw/main/05.%20Youth.mp3"><b>🔊 Click here to play "Youth" 🎶</b></a> 🎧
+</p>
+
+<br>
 
 # 💻 Tech Stack  
 ### Languages & Frameworks:  
@@ -118,8 +129,6 @@ I’m loyal to my principles and persistent even when I feel disconnected. Somet
   <img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white"/>
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
 </p>
-
-</details>
 
 </details>
   <a href="#"><img src="assets/pokeball-bottom.png" width="370px" height="170px"></a>
