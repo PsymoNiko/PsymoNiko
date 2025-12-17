@@ -174,6 +174,7 @@ When I’m PsymoNiko, I don’t just code — I create worlds. I move like someo
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 </h3>
 
+<a href="https://stardev.io/developers/PsymoNiko"><img alt="Check out PsymoNiko's profile on stardev.io" src="https://stardev.io/developers/PsymoNiko/badge/languages/global.svg" /></a>
 
+---
 
-[![Check out PsymoNiko's profile on stardev.io](https://stardev.io/developers/PsymoNiko/badge/languages/global.svg)](https://stardev.io/developers/PsymoNiko)
