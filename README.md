@@ -178,3 +178,9 @@ When I’m PsymoNiko, I don’t just code — I create worlds. I move like someo
 
 ---
 
+<!-- You can change the referral code in the URL if desired -->
+<a href="https://nobitex.ir/signup/?refcode=8174297" target="_blank" rel="noopener noreferrer">
+  <img src="https://cdn.nobitex.ir/referral/share-banner-low.gif" alt="Nobitex Referral Campaign Banner" style="width: 100%; height: 100%;">
+</a>
+
+
