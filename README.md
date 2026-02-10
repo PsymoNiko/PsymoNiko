@@ -174,13 +174,3 @@ When I’m PsymoNiko, I don’t just code — I create worlds. I move like someo
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 </h3>
 
-<a href="https://stardev.io/developers/PsymoNiko"><img alt="Check out PsymoNiko's profile on stardev.io" src="https://stardev.io/developers/PsymoNiko/badge/languages/global.svg" /></a>
-
----
-
-<!-- You can change the referral code in the URL if desired -->
-<a href="https://nobitex.ir/signup/?refcode=8174297" target="_blank" rel="noopener noreferrer">
-  <img src="https://cdn.nobitex.ir/referral/share-banner-low.gif" alt="Nobitex Referral Campaign Banner" style="width: 100%; height: 100%;">
-</a>
-
-
