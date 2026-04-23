@@ -46,6 +46,13 @@ I’m loyal to my principles and persistent even when I feel disconnected. Somet
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 </h3>
 
+
+<p align="center">
+  <a href="https://psymoniko.github.io/github-music-player/">
+    <img src="https://img.shields.io/badge/🎵_Now_Playing_-_Stream_&_Relax-1DB954?style=for-the-badge&logo=music&logoColor=white" alt="Stream Music">
+  </a>
+</p>
+
 <br>
 
 <div align="center">
