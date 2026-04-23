@@ -174,3 +174,16 @@ When I’m PsymoNiko, I don’t just code — I create worlds. I move like someo
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 </h3>
 
+
+### 💎 Support with TON
+
+<a href="https://tonhub.com/transfer/alimohammadnia.ton">
+  <img align="right" width="128" height="128" src="https://api.qrserver.com/v1/create-qr-code/?size=128x128&data=ton%3A%2F%2Ftransfer%2Falimohammadnia.ton" alt="TON Donation QR Code"/>
+</a>
+
+**Wallet:** `alimohammadnia.ton`
+
+[![Send TON](https://img.shields.io/badge/Send_TON-0098ea?style=for-the-badge&logo=ton&logoColor=white)](https://tonhub.com/transfer/alimohammadnia.ton)
+
+If you find my work valuable, you can support me with a TON donation. **0% fees**, direct to my wallet.
+
