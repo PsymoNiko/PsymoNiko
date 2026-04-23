@@ -56,7 +56,7 @@ I’m loyal to my principles and persistent even when I feel disconnected. Somet
 <br>
 
 <div align="center">
-  <a href="#"><img src="assets/pokeball-top.png" width="370px" height="170px"></a>
+  <a href="#"><img src="assets/slim.png" width="370px" height="170px"></a>
 
   <h2>✨ PsymoNiko ✨</h2>
 
@@ -124,7 +124,7 @@ I’m loyal to my principles and persistent even when I feel disconnected. Somet
 </p>
 
 </details>
-  <a href="#"><img src="assets/pokeball-bottom.png" width="370px" height="170px"></a>
+  <a href="#"><img src="assets/shady.png" width="370px" height="170px"></a>
 </div>
 
 <h3 align="center">
@@ -189,11 +189,6 @@ If you find my work valuable, you can support me with a TON donation. **0% fees*
 </p>
 
 
-<p align="center">
-  <a href="https://psymoniko.github.io/github-music-player/player.html">
-    <img src="https://img.shields.io/badge/🎵_Now_Playing_-_Stream_&_Relax-1DB954?style=for-the-badge&logo=music&logoColor=white" alt="Stream Music">
-  </a>
-</p>
 
 
 <p align="center">
