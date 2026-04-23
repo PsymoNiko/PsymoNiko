@@ -3,40 +3,30 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider"/>
 </p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+👋+My+name+is+Ali;I+am+A+Site+Reliability+Engineer+💻)](https://git.io/typing-svg)
+<!-- Typing SVG with updated title -->
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+👋+I'm+Ali;Platform+Engineer+%7C+Site+Reliability+Engineer;Building+Internal+Developer+Platforms;Creator+of+PsymoNiko)](https://git.io/typing-svg)
 
-
+<!-- NFT Logo – clickable to Getgems -->
 <p align="center">
-  <img src="assets/output2.gif" alt="Animated GIF" />
+  <a href="https://getgems.io/psymoniko" target="_blank">
+    <img src="assets/output2.gif" alt="PsymoNiko NFT – my on-chain identity" width="120" style="border-radius: 20px; border: 2px solid #00FF00; box-shadow: 0 0 15px #00FF00;" />
+  </a>
+  <br/>
+  <em>🔗 <strong>PsymoNiko</strong> – my verified NFT on TON blockchain</em>
 </p>
 
-
-
-
+<!-- Social links (consolidated) -->
 <p align="center">
-  <a href="https://discord.gg/NicholasPsymon">
-    <img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white" alt="Discord"/>
-  </a>
-  <a href="www.linkedin.com/in/alimohammadnia">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://stackoverflow.com/users/19601943/ali-mohammadnia">
-    <img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white" alt="Stack Overflow"/>
-  </a>
-  <a href="https://www.youtube.com/@NikoPyRest">
-    <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white" alt="YouTube"/>
-  </a>
-  <a href="mailto:alimohammadnia127@gmail.com">
-    <img src="https://img.shields.io/badge/Email-alimohammadnia127%40gmail.com-blue" alt="Email"/>
-  </a>
+  <a href="https://discord.gg/NicholasPsymon"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white" alt="Discord"/></a>
+  <a href="https://linkedin.com/in/alimohammadnia"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://stackoverflow.com/users/19601943/ali-mohammadnia"><img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white" alt="Stack Overflow"/></a>
+  <a href="https://www.youtube.com/@NikoPyRest"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white" alt="YouTube"/></a>
+  <a href="mailto:alimohammadnia127@gmail.com"><img src="https://img.shields.io/badge/Email-alimohammadnia127%40gmail.com-blue" alt="Email"/></a>
 </p>
 
 <p align="center">
-  <a href="https://alimohammadnia.ir">
-    <img src="https://img.shields.io/badge/https://alimohammadnia.ir-darkgreen.svg?style=for-the-badge&logo=website&logoColor=white" alt="Website"/>
-  </a>
+  <a href="https://alimohammadnia.ir"><img src="https://img.shields.io/badge/Website-alimohammadnia.ir-darkgreen.svg?style=for-the-badge&logo=website&logoColor=white" alt="Website"/></a>
 </p>
-
 
 ![snake gif](https://github.com/psymoniko/PsymoNiko/blob/output/github-contribution-grid-snake.svg)
 
@@ -44,29 +34,25 @@
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 </h3>
 
-
 # 💫 About Ali
-👋 Hi! I'm Mohammadnia
 
-I’m a thinker before I’m a doer. My mind digs deep into ideas — always searching for meaning, structure, and truth. Curiosity and resilience built me, even in places that aren’t easy to grow. I work with Python, DevOps, and backend logic, but behind all that, there’s a creative fire that doesn’t always fit inside logic.
+👋 Hi! I'm Ali Mohammadnia – a thinker before a doer. My mind digs deep into ideas, always searching for meaning, structure, and truth. Curiosity and resilience built me, even in places that aren’t easy to grow.
 
+I work with **Python, DevOps, backend logic, and internal developer platforms** – but behind all that, there’s a creative fire that doesn’t always fit inside logic.
 
 I’m loyal to my principles and persistent even when I feel disconnected. Sometimes I overthink, chase perfection too hard, or isolate myself when I shouldn’t — but my intentions are always real. My heart stays loyal; my focus stays on turning doubt into belief.
 
-<!-- ✨ Divider -->
 <h3 align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 </h3>
 
-<!-- =============================== -->
-<!-- 🖥️ Interactive Terminal View -->
-<!-- =============================== -->
 <br>
+
 <div align="center">
   <a href="#"><img src="assets/pokeball-top.png" width="370px" height="170px"></a>
-  
+
   <h2>✨ PsymoNiko ✨</h2>
-  
+
 <details>
 <summary>🎵 Click to explore my Tech Stack & listen to some music! 🎵</summary>
 
@@ -134,11 +120,9 @@ I’m loyal to my principles and persistent even when I feel disconnected. Somet
   <a href="#"><img src="assets/pokeball-bottom.png" width="370px" height="170px"></a>
 </div>
 
-<!-- ✨ Divider -->
 <h3 align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 </h3>
-
 
 ## 🎵 Now Playing
 
@@ -152,28 +136,29 @@ I’m loyal to my principles and persistent even when I feel disconnected. Somet
   <em>🎧 Click to play "Youth" 🎧</em>
 </p>
 
-<!-- ✨ Divider -->
 <h3 align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 </h3>
 
+## PsymoNiko – my alter ego
 
-## PsymoNiko
+> *PsymoNiko is the space where my creative madness breathes. It’s not a nickname; it’s my rebellion against the walls around me. Through him, I turn pain into art, frustration into motion, and silence into rhythm.*  
+> When I’m PsymoNiko, I don’t just code — I create worlds. I move like someone who doesn’t need permission to exist. Sometimes that energy burns too wild — impulsive, emotional, breaking things just to feel alive again — but that’s the fire that makes me real.
 
-PsymoNiko is my alter ego — the space where my creative madness breathes. It’s not a nickname; it’s my rebellion against the walls around me. Through him, I turn pain into art, frustration into motion, and silence into rhythm.
-When I’m PsymoNiko, I don’t just code — I create worlds. I move like someone who doesn’t need permission to exist. Sometimes that energy burns too wild — impulsive, emotional, breaking things just to feel alive again — but that’s the fire that makes me real.
-
+<p align="center">
+  <a href="https://getgems.io/psymoniko" target="_blank">
+    <img src="https://img.shields.io/badge/🔗%20Own%20my%20NFT%20on%20Getgems-0098ea?style=for-the-badge&logo=ton&logoColor=white" alt="View NFT on Getgems"/>
+  </a>
+</p>
 
 <p align="center">
   <a href="https://roadmap.sh"><img src="https://roadmap.sh/card/tall/6492d1b9d99c9d67318a45e0?variant=dark" alt="roadmap.sh"/></a>
-  <!-- <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=dark&count=1"/> -->
   <a href="https://app.daily.dev/psymoniko"><img src="https://api.daily.dev/devcards/v2/XMKgabfdG3MViOwIBRQPA.png?type=default&r=q1z" width="356" alt="Ali Mohammadnia's Dev Card"/></a>
 </p>
 
 <h3 align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 </h3>
-
 
 ### 💎 Support with TON
 
@@ -187,3 +172,11 @@ When I’m PsymoNiko, I don’t just code — I create worlds. I move like someo
 
 If you find my work valuable, you can support me with a TON donation. **0% fees**, direct to my wallet.
 
+---
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
+</p>
+<p align="center">
+  <em>© 2025 Ali Mohammadnia – Platform Engineer & Creator of PsymoNiko</em>
+</p>
