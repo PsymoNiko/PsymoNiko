@@ -189,7 +189,11 @@ If you find my work valuable, you can support me with a TON donation. **0% fees*
 </p>
 
 
-
+<p align="center">
+  <a href="https://psymoniko.github.io/github-music-player/player.html">
+    <img src="https://img.shields.io/badge/🎵_Now_Playing_-_Stream_&_Relax-1DB954?style=for-the-badge&logo=music&logoColor=white" alt="Stream Music">
+  </a>
+</p>
 
 
 <p align="center">
