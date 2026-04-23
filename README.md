@@ -9,7 +9,7 @@
 <!-- NFT Logo – clickable to Getgems -->
 <p align="center">
   <a href="https://getgems.io/psymoniko" target="_blank">
-    <img src="assets/output2.gif" alt="PsymoNiko NFT – my on-chain identity" width="120" style="border-radius: 20px; border: 2px solid #00FF00; box-shadow: 0 0 15px #00FF00;" />
+    <img src="assets/output2.gif" alt="PsymoNiko NFT – my on-chain identity" />
   </a>
   <br/>
   <em>🔗 <strong>PsymoNiko</strong> – my verified NFT on TON blockchain</em>
