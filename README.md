@@ -152,7 +152,7 @@ I’m loyal to my principles and persistent even when I feel disconnected. Somet
 </p>
 
 <p align="center">
-  <a href="https://roadmap.sh"><img src="https://roadmap.sh/card/tall/6492d1b9d99c9d67318a45e0?variant=dark" alt="roadmap.sh"/></a>
+  <!-- <a href="https://roadmap.sh"><img src="https://roadmap.sh/card/tall/6492d1b9d99c9d67318a45e0?variant=dark" alt="roadmap.sh"/></a> -->
   <a href="https://app.daily.dev/psymoniko"><img src="https://api.daily.dev/devcards/v2/XMKgabfdG3MViOwIBRQPA.png?type=default&r=q1z" width="356" alt="Ali Mohammadnia's Dev Card"/></a>
 </p>
 
@@ -174,9 +174,9 @@ If you find my work valuable, you can support me with a TON donation. **0% fees*
 
 ---
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
-</p>
+</p> -->
 <p align="center">
   <em>© 2025 Ali Mohammadnia – Platform Engineer & Creator of PsymoNiko</em>
 </p>
