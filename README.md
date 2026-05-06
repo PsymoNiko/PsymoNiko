@@ -53,15 +53,19 @@ I’m loyal to my principles and persistent even when I feel disconnected. Somet
 <div align="center">
   <a href="#"><img src="assets/pokeball-top.png" width="370px" height="170px"></a>
 
-  <h2>✨ PsymoNiko ✨</h2>
+  <h2>✨ WhoAmI ✨</h2>
 
 <details>
-<summary>🎵 Click to explore my Tech Stack & listen to some music! 🎵</summary>
+<summary>## 🎵 Now Playing 🎵</summary>
+
 
 <br>
 
+
 <p align="center">
-  🎧 <a href="https://github.com/PsymoNiko/PsymoNiko/raw/main/05.%20Youth.mp3"><b>🔊 Click here to play "Youth" 🎶</b></a> 🎧
+  <a href="https://github.com/PsymoNiko/PsymoNiko/raw/main/05.%20Youth.mp3">
+    <img src="https://img.shields.io/badge/▶%20Play-Youth-1DB954?style=for-the-badge&logo=music&logoColor=white" alt="Play Youth"/>
+  </a>
 </p>
 
 <br>
@@ -198,22 +202,6 @@ I’m loyal to my principles and persistent even when I feel disconnected. Somet
 </details>
   <a href="#"><img src="assets/pokeball-bottom.png" width="370px" height="170px"></a>
 </div>
-
-<h3 align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
-</h3>
-
-## 🎵 Now Playing
-
-<p align="center">
-  <a href="https://github.com/PsymoNiko/PsymoNiko/raw/main/05.%20Youth.mp3">
-    <img src="https://img.shields.io/badge/▶%20Play-Youth-1DB954?style=for-the-badge&logo=music&logoColor=white" alt="Play Youth"/>
-  </a>
-</p>
-
-<p align="center">
-  <em>🎧 Click to play "Youth" 🎧</em>
-</p>
 
 <h3 align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
