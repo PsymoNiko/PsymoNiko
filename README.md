@@ -35,6 +35,8 @@
 </h3>
 
 # 💫 About Ali
+![Platform Engineer](https://img.shields.io/badge/Platform%20Engineer-0A5C8E?style=for-the-badge&logo=platformio&logoColor=white)
+
 
 👋 Hi! I'm Ali Mohammadnia – a thinker before a doer. My mind digs deep into ideas, always searching for meaning, structure, and truth. Curiosity and resilience built me, even in places that aren’t easy to grow.
 
@@ -218,6 +220,10 @@ I’m loyal to my principles and persistent even when I feel disconnected. Somet
 </h3>
 
 ## PsymoNiko – my alter ego
+
+![Site Reliability Engineer](https://img.shields.io/badge/Site%20Reliability%20Engineer-FF6B00?style=for-the-badge&logo=sre&logoColor=white)
+
+
 
 > *PsymoNiko is the space where my creative madness breathes. It’s not a nickname; it’s my rebellion against the walls around me. Through him, I turn pain into art, frustration into motion, and silence into rhythm.*  
 > When I’m PsymoNiko, I don’t just code — I create worlds. I move like someone who doesn’t need permission to exist. Sometimes that energy burns too wild — impulsive, emotional, breaking things just to feel alive again — but that’s the fire that makes me real.
