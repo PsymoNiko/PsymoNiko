@@ -4,7 +4,7 @@
 </p>
 
 <!-- Typing SVG with updated title -->
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+👋+I'm+Ali;Platform+Engineer+%7C+Site+Reliability+Engineer;Building+Internal+Developer+Platforms;Creator+of+PsymoNiko)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+👋+I'm+Ali;Platform+Engineer;Site+Reliability+Engineer)](https://git.io/typing-svg)
 
 <!-- NFT Logo – clickable to Getgems -->
 <p align="center">
