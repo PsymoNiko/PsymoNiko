@@ -64,59 +64,134 @@ I’m loyal to my principles and persistent even when I feel disconnected. Somet
 
 <br>
 
-# 💻 Tech Stack  
-### Languages & Frameworks:  
+# 💻 Tech Stack
+
+## 🧠 Languages & Frameworks
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
   <img src="https://img.shields.io/badge/Kotlin-000000?style=for-the-badge&logo=kotlin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white"/>
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
   <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi"/>
-  <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20Web%20Tokens"/>
   <img src="https://img.shields.io/badge/Django%20REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray"/>
-  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white"/>
 </p>
 
-### SQL/NoSQL Databases & Storages:  
+## 🗄️ Databases & Storage
 <p align="center">
   <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
   <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white"/>
   <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Minio-72C8B9?style=for-the-badge&logo=minio&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Garage-FFC107?style=for-the-badge&logo=garage&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Milvus-00B4D8?style=for-the-badge&logo=milvus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Qdrant-FF4D4D?style=for-the-badge&logo=qdrant&logoColor=white"/>
 </p>
 
-### Tools:  
+## 📨 Message Queues & Stream Processing
 <p align="center">
-  <img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Sentry-black?style=for-the-badge&logo=Sentry&logoColor=#362D59"/>
-  <img src="https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20Web%20Tokens"/>
-  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white"/>
+  <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Logstash-005571?style=for-the-badge&logo=logstash&logoColor=white"/>
 </p>
-### CI/CD & Version Control:  
+
+## 📊 Observability & Monitoring
+<p align="center">
+  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white"/>
+  <img src="https://img.shields.io/badge/cAdvisor-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node%20Exporter-339933?style=for-the-badge&logo=prometheus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GPU%20Exporter-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Elastic-005571?style=for-the-badge&logo=elastic&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=kibana&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Sentry-black?style=for-the-badge&logo=Sentry&logoColor=#362D59"/>
+</p>
+
+## ⚙️ CI/CD & Version Control
 <p align="center">
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white"/>
   <img src="https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitLab%20CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitLab%20Runner-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white"/>
   <img src="https://img.shields.io/badge/teamcity-000000.svg?style=for-the-badge&logo=teamcity&logoColor=white"/>
 </p>
 
----
+## 🧩 Infrastructure as Code & Automation
+<p align="center">
+  <img src="https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white"/>
+</p>
 
-# 🖥 Operating Systems:  
+## 🌐 Web Servers & Proxies
+<p align="center">
+  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HAProxy-1E3A8A?style=for-the-badge&logo=haproxy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Traefik-24A1C1?style=for-the-badge&logo=traefik&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Nginx%20UI-009639?style=for-the-badge&logo=nginx&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Nginx%20Proxy%20Manager-009639?style=for-the-badge&logo=nginx&logoColor=white"/>
+</p>
+
+## 🔐 Security & Secrets Management
+<p align="center">
+  <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20Web%20Tokens"/>
+  <img src="https://img.shields.io/badge/Vault-FFEC6E?style=for-the-badge&logo=vault&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Passbolt-7C3A2F?style=for-the-badge&logo=passbolt&logoColor=white"/>
+</p>
+
+## 📄 API & Documentation
+<p align="center">
+  <img src="https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+</p>
+
+## 🐳 Containerization & Orchestration
+<p align="center">
+  <img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Portainer-13B5EA?style=for-the-badge&logo=portainer&logoColor=white"/>
+</p>
+
+## 🚦 Load Testing
+<p align="center">
+  <img src="https://img.shields.io/badge/k6-7D64FF?style=for-the-badge&logo=k6&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Locust-6C40B0?style=for-the-badge&logo=locust&logoColor=white"/>
+</p>
+
+## 🤝 Collaboration & Project Management
+<p align="center">
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white"/>
+</p>
+
+## 📈 Business Intelligence & Data Platforms
+<p align="center">
+  <img src="https://img.shields.io/badge/Metabase-509EE3?style=for-the-badge&logo=metabase&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
+</p>
+
+## ✍️ Editors & IDEs
+<p align="center">
+  <img src="https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Zed-000000?style=for-the-badge&logo=zed&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JetBrains-000000?style=for-the-badge&logo=jetbrains&logoColor=white"/>
+</p>
+
+## 🖥️ Operating Systems
 <p align="center">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
   <img src="https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white"/>
   <img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white"/>
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Termux-000000?style=for-the-badge&logo=termux&logoColor=white"/>
 </p>
+
+---
+
 
 </details>
   <a href="#"><img src="assets/pokeball-bottom.png" width="370px" height="170px"></a>
