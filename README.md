@@ -227,6 +227,8 @@ I’m loyal to my principles and persistent even when I feel disconnected. Somet
   <a href="https://app.daily.dev/psymoniko"><img src="https://api.daily.dev/devcards/v2/XMKgabfdG3MViOwIBRQPA.png?type=default&r=q1z" width="356" alt="Ali Mohammadnia's Dev Card"/></a>
 </p>
 
+<img src="https://algora.io/og/user/PsymoNiko" />
+
 <h3 align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 </h3>
