@@ -63,8 +63,8 @@ I’m loyal to my principles and persistent even when I feel disconnected. Somet
 
 
 <p align="center">
-  <a href="https://github.com/PsymoNiko/PsymoNiko/raw/main/05.%20Youth.mp3">
-    <img src="https://img.shields.io/badge/▶%20Play-Youth-1DB954?style=for-the-badge&logo=music&logoColor=white" alt="Play Youth"/>
+  <a href="https://github.com/PsymoNiko/PsymoNiko/blob/main/assets%2FThe%20Marshall%20Mathers%20LP%20CD%201%20TRACK%202%20%28320%29.mp3">
+    <img src="https://img.shields.io/badge/▶%20Play-TheWayIAM-1DB954?style=for-the-badge&logo=music&logoColor=white" alt="Play The Way I AM"/>
   </a>
 </p>
 
