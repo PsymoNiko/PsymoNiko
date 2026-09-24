@@ -18,7 +18,7 @@
 <!-- Social links (consolidated) -->
 <p align="center">
   <a href="https://discord.gg/NicholasPsymon"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white" alt="Discord"/></a>
-  <a href="https://linkedin.com/in/alimohammadnia"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://linkedin.com/in/psymoniko"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://stackoverflow.com/users/19601943/ali-mohammadnia"><img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white" alt="Stack Overflow"/></a>
   <a href="https://www.youtube.com/@NikoPyRest"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white" alt="YouTube"/></a>
   <a href="mailto:alimohammadnia127@gmail.com"><img src="https://img.shields.io/badge/Email-alimohammadnia127%40gmail.com-blue" alt="Email"/></a>
