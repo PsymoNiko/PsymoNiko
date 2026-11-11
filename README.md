@@ -239,12 +239,15 @@ I’m loyal to my principles and persistent even when I feel disconnected. Somet
   <img align="right" width="128" height="128" src="https://api.qrserver.com/v1/create-qr-code/?size=128x128&data=ton%3A%2F%2Ftransfer%2Falimohammadnia.ton" alt="TON Donation QR Code"/>
 </a>
 
-**Wallet:** `alimohammadnia.ton`
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,spring,maven,python,typescript,nodejs,nestjs,django,fastapi,postgres,mysql,redis,rabbitmq" /></br>
+    <img src="https://skillicons.dev/icons?i=aws,azure,gcp,kubernetes,docker,grafana,prometheus,jenkins,git,githubactions" /></br>
+    <img src="https://skillicons.dev/icons?i=jest,postman,linux,bash,prisma,pytorch,tensorflow" />
+  </a>
+</p>
 
-[![Send TON](https://img.shields.io/badge/Send_TON-0098ea?style=for-the-badge&logo=ton&logoColor=white)](https://tonhub.com/transfer/alimohammadnia.ton)
 
-If you find my work valuable, you can support me with a TON donation. **0% fees**, direct to my wallet.
-](https://github.com/modelcontextprotocol/python-sdk/pull/2065/changes#diff-5278bd22bb86f5828e6bd1d889dd74bd0cd7302c9d1eb56c01075b5fe193a232R395)
 
 ---
 
